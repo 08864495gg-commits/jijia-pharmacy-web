@@ -51,4 +51,5 @@ git push -u origin main
 ## 已檢查與限制
 - JavaScript 語法、內部錨點及本地素材路徑。
 - 商品分類、詳細內容展開、嚕嚕互動。
-- GitHub 專案尚待建立及正式部署，不代表已上線。
+- GitHub 專案：https://github.com/08864495gg-commits/jijia-pharmacy-web
+- 網站發布由 main 分支根目錄提供，部署狀態以 Settings → Pages 為準。
